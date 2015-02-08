@@ -108,11 +108,13 @@ First start your servers. After you are done, simply click the Run button on eac
 #### Running the Service / List of Options
 
 **Upload**
+
 A client chooses U, and then entered fig1. Corresponding hashed Directory Server has successfully added the content to its list.   
 
 ![ScreenShot](/img/img22.png)
 
 **Query**
+
 Client 1 chooses U, and then entered tree. Corresponding hashed Directory Server has successfully added the content to its list.   
 
 ![ScreenShot](/img/img23.png)
@@ -122,6 +124,7 @@ Client 2 chooses Q, then entered tree.  We can see Directory Server’s message 
 ![ScreenShot](/img/img24.png)
 
 **Exit**
+
 A client has uploaded multiple files. Then press E to exit. All contents uploaded are successfully removed.
 
 ![ScreenShot](/img/img25.png)
