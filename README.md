@@ -128,6 +128,3 @@ Client 2 chooses Q, then entered tree.  We can see Directory Server’s message 
 A client has uploaded multiple files. Then press E to exit. All contents uploaded are successfully removed.
 
 ![ScreenShot](/img/img25.png)
-
-#### Notes
-
