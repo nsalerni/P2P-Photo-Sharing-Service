@@ -68,8 +68,6 @@ Remember, the successor server of Server 4 will be Server 1. This will ensure th
 
 - After you are done, simply click the Run button on each computer, to start the servers. In the Console, you will see the program start. 
 
-![ScreenShot](/img/img14.png)
-
 #### Setting up the PeerClient and PeerServer
 
 Step 1: Copy both PeerClient.java and PeerServer.java.
